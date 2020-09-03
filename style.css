@@ -26,9 +26,10 @@ li {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.container2 {
-    width: 50%;
+.center {
+    width: 30%;
     margin:auto;
     padding-top: 25px;
+
 }
 
